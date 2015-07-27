@@ -4,7 +4,7 @@ var module = {
     exports: null
 };
 
-// The en-US hyphenation patterns are retrieved from
+// The en-US hyphenation patterns are retrieved from 
 // http://tug_org/svn/texhyphen/trunk/collaboration/repository/hyphenator/
 module.exports = {
 	'id': ['en-us', 'en'],
